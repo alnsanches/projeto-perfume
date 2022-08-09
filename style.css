@@ -35,6 +35,7 @@ body {
 
 #descricaoProduto p {
     font-family: 'Montserrat', sans-serif; 
+    font-size: 14px;
 }
 
 #descricaoProduto .descricaop {
@@ -49,7 +50,7 @@ body {
 }
 
 #preco {
-    color: #309555;
+    color: hsl(158, 36%, 37%);
     font-size: 25px;
 }
 
@@ -62,7 +63,7 @@ body {
 }
 
 button {
-    background-color: #309555;
+    background-color: hsl(158, 36%, 37%);
     border: none;
     width: 300px;
     border-radius: 10px;
